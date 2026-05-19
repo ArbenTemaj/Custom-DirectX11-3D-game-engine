@@ -3,9 +3,10 @@
 Built a closed-source real-time 3D engine featuring a PBR rendering pipeline, 
 NVIDIA PhysX integration, skeletal animation blending, and a full post-processing 
 stack including bloom, fog, and color grading. Demo available on request. Also, 
-Feel free to check out my website for socials and contact information click [here](https://arbentemaj.github.io/)
+Feel free to check out my website for my contact information click [here](https://arbentemaj.github.io/)
 
-Here below you can find all information regarding this game engine's features!
+Watch the video [here](https://www.youtube.com/watch?v=mLddE1BvB4w) or check out a specific section down below
+
 ---
 
 ## Table of Contents
